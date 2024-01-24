@@ -62,7 +62,7 @@ CREATE TABLE `tbl_mhs` (
 --
 
 INSERT INTO `tbl_mhs` (`id_mhs`, `nim`, `nama_mhs`, `jk`, `alamat`, `prodi`, `foto`, `email`) VALUES
-(26, '21051214002', 'Muhammad Zildan F', 1, 'Bojonggede', 10, 'img1.png', 'muhammad.21007@mhs.unesa.ac.id');
+(26, '21051214055', 'Bagas Setya Wicaksono', 1, 'Jombang', 10, 'img1.png', 'bagas.21055@mhs.unesa.ac.id');
 
 -- --------------------------------------------------------
 
